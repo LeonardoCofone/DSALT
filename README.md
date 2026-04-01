@@ -5,6 +5,8 @@
 
 ---
 
+[Open the notebook in Colab](https://colab.research.google.com/github/LeonardoCofone/DSALT/blob/main/dsalt.ipynb)
+
 ## Overview
 
 Standard Transformer decoders use dense self-attention: every token attends to every previous token. Because softmax weights are strictly positive, semantically irrelevant tokens always contribute to a token's representation, a structural source of noise that accumulates across heads and layers, accelerating **rank collapse** and degrading performance on long contexts.
