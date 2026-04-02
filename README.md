@@ -1,7 +1,7 @@
 # DSALT: Dynamic Sparse Attention with Landmark Tokens
 
 > Companion code for the paper *"Noise Accumulation and Rank Collapse in Dense Self-Attention: DSALT"*  
-> Preprint: [Zenodo](https://doi.org/10.5281/zenodo.19312827)
+> Preprint: [Zenodo](https://doi.org/10.5281/zenodo.19312826)
 
 ---
 
